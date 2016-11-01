@@ -1,4 +1,4 @@
-<?php echo 'test'; ?>
+<?php $foo = bar; ?>
 <!doctype html>
 <html>
     <head>
